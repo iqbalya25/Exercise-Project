@@ -5,5 +5,9 @@ public class Newfile {
         System.out.println("Try and Error");
         System.out.println("Try and Error");
         System.out.println("Try and Error");
+
+        System.out.println("Try hard");
+        System.out.println("Try hard");
+        System.out.println("Try hard");
     }
 }
